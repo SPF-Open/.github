@@ -93,5 +93,5 @@ For questions, bug reports, or feature requests, please open an issue in the rel
 ---
 
 <p align="center">
-  Built with ❤️ by the Benoit Welsch from FPS Finances P&O Testing Team
+  Built with ❤️ by Benoit Welsch from FPS Finances P&O Testing Team
 </p>
